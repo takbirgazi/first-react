@@ -1,0 +1,32 @@
+[
+    {
+    "id": 1,
+    "cover_img": "https://example.com/feck_post1.jpg",
+    "post_title": "Exploring the Feck Universe",
+    "author": "Jane Doe"
+    },
+    {
+    "id": 2,
+    "cover_img": "https://example.com/feck_post2.jpg",
+    "post_title": "The Art of Feckology",
+    "author": "John Smith"
+    },
+    {
+    "id": 3,
+    "cover_img": "https://example.com/feck_post3.jpg",
+    "post_title": "Feckonomics: A New Approach",
+    "author": "Emily Jones"
+    },
+    {
+    "id": 4,
+    "cover_img": "https://example.com/feck_post4.jpg",
+    "post_title": "Fecking Your Way to Success",
+    "author": "Michael Brown"
+    },
+    {
+    "id": 5,
+    "cover_img": "https://example.com/feck_post5.jpg",
+    "post_title": "The Feck Chronicles: Volume 1",
+    "author": "Sarah White"
+    }
+]
